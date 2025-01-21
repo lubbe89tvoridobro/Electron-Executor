@@ -1,6 +1,7 @@
 ---
 
 # Electron Executor
+![electron](https://github.com/user-attachments/assets/07b5f886-7472-4fd3-b33a-3e745afc0472)
 
 > ### High-Powered Roblox Script Executor ⚡  
 > **Lightning-Fast Injection, Script Library, Multi-API Integration, Anti-Ban Protection**
